@@ -1,0 +1,16 @@
+## ignore these folders regardless.
+node_modules/
+/cache/
+.vscode/
+
+## ignore these file extensions regardless.
+*.exe
+*.dll
+
+## ignore these files.
+server.log
+package-lock.json
+update.json
+
+## ignore built pilotslife resource.
+/resources/sample/*
